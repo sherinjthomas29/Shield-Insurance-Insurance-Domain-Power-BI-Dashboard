@@ -78,11 +78,10 @@ To design a **Power BI dashboard** that:
 ## 🧮 **KPIs & Metrics**
 | KPI | Description |
 |-----|--------------|
-| Total Premium | Sum of all premium amounts collected |
-| Total Claims | Number and value of insurance claims |
-| Claim Ratio | (Total Claims / Total Premium) × 100 |
-| Active Policies | Count of policies currently in force |
-| Revenue Growth | Month-over-Month and Year-over-Year change |
+| Total Revenue | Sum of all revenue collected |
+| Total Customer | Total number of customers |
+| Daily Revenue Growth | Daily increase in  total revenue |
+| Daily Customer Growth | Daily increase in number of customer |
 
 ---
 
