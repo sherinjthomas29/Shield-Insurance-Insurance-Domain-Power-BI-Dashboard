@@ -6,6 +6,15 @@ The goal of this dashboard is to help management make **data-driven decisions** 
 
 ---
 
+## 📋 Contents
+
+1. [Home View](https://github.com/sherinjthomas29/Shield-Insurance-Insurance-Domain-Power-BI-Dashboard/blob/main/Home%20View.png) - General overview of the dashboard
+2. [General View](https://github.com/sherinjthomas29/Shield-Insurance-Insurance-Domain-Power-BI-Dashboard/blob/main/General%20View.png) - Overall revenue & customer performance report
+3. [Sales Mode View](https://github.com/sherinjthomas29/Shield-Insurance-Insurance-Domain-Power-BI-Dashboard/blob/main/Sales%20Mode%20View.png) - Sales Mode revenue & customer analysis
+4. [Age Group View](https://github.com/sherinjthomas29/Shield-Insurance-Insurance-Domain-Power-BI-Dashboard/blob/main/Age%20Group%20View.png) - Age Group revenue & customer analysis
+
+---
+
 ### **Situation**
 Shield Insurance faced challenges in tracking and visualizing their overall performance due to fragmented data sources and limited reporting capabilities.  
 Decision-makers lacked a consolidated view of policy sales, revenue, and customer behavior across different regions and channels.
