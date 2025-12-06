@@ -1,7 +1,7 @@
 # 🛡️ Shield Insurance - Power BI Dashboard
 
 💻  [Report](https://github.com/sherinjthomas29/Shield-Insurance-Insurance-Domain-Power-BI-Dashboard/blob/main/Report.pdf)     |
-📈  [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGZlN2MyZGMtNDllMC00ZjZkLTg2MjgtY2QyZGNmZDYxNDIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)     |🎥 [Presentation](https://youtu.be/Drib8aaGIBM)
+📈  [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGZlN2MyZGMtNDllMC00ZjZkLTg2MjgtY2QyZGNmZDYxNDIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)     | 🎥 [Presentation](https://youtu.be/Drib8aaGIBM)
 
 ## 📘 Overview
 This Power BI project provides a comprehensive analysis of **Shield Insurance Company’s performance** across key business areas such as policy sales, customer distribution, claims, and revenue trends.  
