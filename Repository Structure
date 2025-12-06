@@ -1,0 +1,35 @@
+Shield-Insurance-PowerBI-Dashboard/
+│
+├── 📁 Data/
+│   ├── insurance_data.csv
+│   ├── claims_data.csv
+│   ├── customer_data.csv
+│   └── README.md                # Explains each dataset (columns, source, purpose)
+│
+├── 📁 Dashboard/
+│   └── Shield_Insurance.pbix    # Main Power BI file
+│
+├── 📁 Reports/
+│   ├── Shield_Insurance_Project_Report.pdf
+│   ├── Shield_Insurance_Presentation.pdf
+│   └── README.md                # Overview of insights and KPIs covered
+│
+├── 📁 Images/
+│   ├── Dashboard_Screenshot_1.png
+│   ├── Dashboard_Screenshot_2.png
+│   ├── Thumbnail.png
+│   └── README.md                # Optional — for image credits or details
+│
+├── 📁 Documentation/
+│   ├── Project_Overview.md      # Extended explanation (methodology, data model, DAX summary)
+│   └── DAX_Measures.md          # List and explanation of major DAX calculations
+│
+├── 📁 Resources/
+│   ├── Internship_Description.pdf
+│   ├── Codebasics_Guidelines.pdf
+│   └── Notes.txt                # Optional — personal notes or references
+│
+├── .gitignore                   # Optional: add .pbix temp, backup files, etc.
+├── LICENSE                      # Choose MIT / Apache 2.0 license
+├── README.md                    # Main project overview (STAR method, insights, results)
+└── requirements.txt             # Optional (if connecting with Python or data scripts)
